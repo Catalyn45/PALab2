@@ -6,9 +6,9 @@ transport/Warehouse.java
  transport.Warehouse
 transport/Factory.java
  transport.Factory
+transport/Problem.java
+ transport.Problem
 transport/Solution.java
  transport.Solution
 Main.java
  Main
-transport/Problem.java
- transport.Problem
